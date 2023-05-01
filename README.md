@@ -3,29 +3,25 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [WiFi Key Extractor](https://github.com/kaesea2/python-scripts/blob/master/wifi_key_extractor.py)
+  - [Keylogger with Email Capability](https://github.com/kaesea2/python-scripts/blob/master/keylogger.py)
+  - [Macchanger](https://github.com/kaesea2/python-scripts/blob/master/macchanger.py)
+  - [FIM (File Integrity Monitor)](https://github.com/kaesea2/python-scripts/blob/master/file_integrity_checker.py)
+  - [Network Scanner](https://github.com/kaesea2/python-scripts/blob/master/netscanner.py)
+  - [Packet Listener](https://github.com/kaesea2/python-scripts/blob/master/packetListener.py)
+  - [Web Socket](https://github.com/kaesea2/python-scripts/blob/master/mySocket.py)
+  - [Web Socket Listener](https://github.com/kaesea2/python-scripts/blob/master/mysocketListener.py)
+  - [ARP Poison](https://github.com/kaesea2/python-scripts/blob/master/arpPoison.py)
+ 
 - <b>Full Stack Web App (Html, Css, Js, Django)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [INEC Result Portal](https://github.com/kaesea2/inec)
+  - [Trubute Webapp](https://github.com/kaesea2/uju_tribute)
+  - [Webapp with blog and event components](https://github.com/kaesea2/self)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>General</b>
+  - [Helpful Commands](https://github.com/kaesea2/priv-excalation/blob/main/helpful_commands.txt)
+  - [Shopping System in CLI](https://github.com/kaesea2/python-projects/blob/main/shoppingSystem.py)
+  - [Estate Management System using KTinker](https://github.com/kaesea2/python-projects/tree/main/estateManagement%20system)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -47,9 +43,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Viewport
-Window
-×
-×
-×
