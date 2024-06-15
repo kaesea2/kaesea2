@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel Ekwueme! <br/><a href="https://github.com/kaesea2">Programmer</a> | <a href="https://www.linkedin.com/in/ekwueme-emmanuel/">Cybersecurity Analyst </a> | <a href="https://www.linkedin.com/in/ekwueme-emmanuel/">Project Manager</a></h1>
+<h1>Hi, I'm Emmanuel Ekwueme! <br/><a href="https://www.linkedin.com/in/ekwueme-emmanuel/">Cybersecurity Analyst </a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
