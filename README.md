@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emmanuel Ekwueme! <br/><a href="https://www.linkedin.com/in/ekwueme-emmanuel/">Cybersecurity Analyst </a> </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python Projects</b>
   - [WiFi Key Extractor](https://github.com/kaesea2/python-scripts/blob/master/wifi_key_extractor.py)
@@ -12,7 +12,9 @@
   - [Web Socket](https://github.com/kaesea2/python-scripts/blob/master/mySocket.py)
   - [Web Socket Listener](https://github.com/kaesea2/python-scripts/blob/master/mysocketListener.py)
   - [ARP Poison](https://github.com/kaesea2/python-scripts/blob/master/arpPoison.py)
- 
+
+<h2>👨‍💻 Webdev Projects:</h2>
+
 - <b>Full Stack Web App (Html, Css, Js, Django)</b>
   - [INEC Result Portal](https://github.com/kaesea2/inec)
   - [Trubute Webapp](https://github.com/kaesea2/uju_tribute)
@@ -29,17 +31,3 @@
 [<img align="left" alt="ekwueme-emmanuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/ekwueme-emmanuel
-
-<!--
-**kaesea2/kaesea2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
